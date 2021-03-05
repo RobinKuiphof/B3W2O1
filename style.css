@@ -1,0 +1,82 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: darkgrey;
+	margin-top: 150px;
+}
+.page{
+	width: 1050px;
+	height: 500px;
+	margin: 0 auto;
+	background-color: white;
+}
+nav{
+	background-color: darkred;
+	height: 40px;
+	display: inline-block;
+	width: 1050px;
+	color: white;
+}
+form{
+	width: 1050px;
+	background-color: white;
+}
+input{
+	width: 300px;
+	margin-left: 50px;
+}
+p{
+	display: inline-block;
+	width: 290px;
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+h1{
+	display: inline-block;
+	margin-left: 50px;
+	line-height: 40px;
+}
+.form h1{
+	margin-top: 50px;
+}
+.form{
+	background-color: white;
+}
+footer{
+	margin-top: 25px;
+}
+footer p{
+	width: 1050px;
+	text-align: center;
+	background-color: dimgrey;
+	line-height: 25px;
+	margin:0px;
+}
+#button{
+	width: 80px;
+	display: block;
+	margin-left: 525px;
+	margin-top:25px;
+	height: 25px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.error{
+	width: 330px;
+	color: red;
+}
+.result{
+	width: 1050px;
+	background-color: white;
+	display: none;
+}
+.presult{
+	width: 750px;
+	margin-left: 150px;
+	margin-bottom: 50px;
+}
